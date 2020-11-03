@@ -1,0 +1,14 @@
+{
+  "name": "authandsecurity",
+  "version": "1.0.0",
+  "description": "Servicio de autenticacion por tokens y seguridad de la aplicacion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Cereda",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
